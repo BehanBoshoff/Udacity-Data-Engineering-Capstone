@@ -1,0 +1,2 @@
+# Udacity-Data-Engineering-Capstone
+This project aims to combine four data sets containing immigration data, airport codes, demographics of US cities and global temperature data. The primary purpose of the combination is to create a schema which can be used to derive various correlations, trends and analytics. For example, one could attempt to correlate the influence of the average temperature of a migrant's resident country on their choice of US state, and what the current demographic layout of that state is.
